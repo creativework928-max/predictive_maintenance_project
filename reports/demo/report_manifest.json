@@ -1,0 +1,19 @@
+{
+    "generated_at": "2026-09-14T06:33:20.163385+00:00",
+    "reports": {
+        "html": "reports\\demo\\feature_engineering_report.html",
+        "docx": "reports\\demo\\feature_engineering_documentation.docx"
+    },
+    "metadata": {
+        "project_name": "Predictive Maintenance \u2014 Task 2 Feature Engineering",
+        "title": "Task 2 \u2014 Feature Engineering Technical Report",
+        "dataset_name": "AI4I 2020 Predictive Maintenance Dataset",
+        "dataset_source": "UCI Machine Learning Repository",
+        "dataset_doi": "10.24432/C5HS5C",
+        "time_series_mode": "AI4I/reference mode",
+        "timestamp_column": null,
+        "machine_id_column": null,
+        "target_column": "machine_failure",
+        "project_version": "1.0.0"
+    }
+}
